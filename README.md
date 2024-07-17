@@ -93,4 +93,5 @@ pytest
 
 - Persistent ChromaDB Storage: Save ChromaDB data to avoid regeneration on each run.
 - Enhanced Embedding Phase: Improve embedding process for more precise responses.
+- Chat History
 - ...
